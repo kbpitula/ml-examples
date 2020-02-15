@@ -1,2 +1,3 @@
 # ml-examples
-ML examples
+
+Welcome to repository with ml examples created to learn ML.
